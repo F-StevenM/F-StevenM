@@ -7,3 +7,7 @@
 <h2>Certifications</h2>
 
 - <a href="https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJCPUSdKP3ZIGT4MVmS%2bJg4">ITIL 4 Foundationse</a>
+
+<h2>Other Platforms</h2>
+
+- <a href="x.com/fs_moraco">Twitter</a>
