@@ -1,18 +1,11 @@
-<table>
-  <tr>
-    <td valign="top" width="50%">
+### <b>Hi there 👋</b>
 
-  #### Certifications
-  - [ITIL 4 Foundations](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJCPUSdKP3ZIGT4MVmS%2bJg4)
-  - [CompTIA A+](https://www.credly.com/badges/5b98b266-3d1a-4e58-89ab-bf851fc6b162/public_url)
-  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ea6a64c0-28cd-48cd-82cf-1d544b24e0b3/public_url)
+I'm Steven
+ 
+I'm a student pursuing a B.S. in Information Technology with certifications covering technical support, IT service management, and cloud computing.
 
-    </td>
-      <td valign="top" width="50%">
-  #### Projects
-  - [Personal Home Server](https://github.com/F-StevenM/Personal-Server)
-  - [Self-Hosted Notes App (Docker, NGINX)](https://hub.docker.com/repository/docker/pinkcashmere/notes-app/general)
+I'm looking for entry-level IT roles where I can grow and contribute.
 
-    </td>
-  </tr>
-</table>
+- **Certifications:** CompTIA A+, ITIL 4 Foundation, and AWS Cloud Practitioner.
+- **Self-hosting** a home server on a ThinkPad with media and web services.
+- **Built** a self-hosted notes app
