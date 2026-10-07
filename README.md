@@ -1,8 +1,18 @@
-<h4>IT Projects</h4>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-- <a href="https://github.com/F-StevenM/Personal-Server" target="_blank">Personal Home Server</a>, <a href="https://hub.docker.com/repository/docker/pinkcashmere/notes-app/general" target="_blank">Self-Hosted Notes App (Docker, NGINX)</a>
+  #### Certifications
+  - [ITIL 4 Foundations](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNJCPUSdKP3ZIGT4MVmS%2bJg4)
+  - [CompTIA A+](https://www.credly.com/badges/5b98b266-3d1a-4e58-89ab-bf851fc6b162/public_url)
+  - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ea6a64c0-28cd-48cd-82cf-1d544b24e0b3/public_url)
 
-<h4>Other Platforms</h4>
+    </td>
+      <td valign="top" width="50%">
+  #### Projects
+  - [Personal Home Server](https://github.com/F-StevenM/Personal-Server)
+  - [Self-Hosted Notes App (Docker, NGINX)](https://hub.docker.com/repository/docker/pinkcashmere/notes-app/general)
 
-- <a href="https://x.com/fs_moraco" target="_blank">Twitter</a>
-- <a href="https://www.linkedin.com/in/steve-m-a73a93263/" target="_blank">LinkedIn</a>
+    </td>
+  </tr>
+</table>
